@@ -1,4 +1,4 @@
-import twitter_info
+import twitter_inf
 import tweepy
 import json
 import requests
